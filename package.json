@@ -1,0 +1,27 @@
+{
+  "name": "go-electron",
+  "version": "1.0.0",
+  "description": "A minimal Go and Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prsolucoes/go-electron.git"
+  },
+  "keywords": [    
+    "Go",
+    "Golang",
+    "Electron"
+  ],
+  "author": "GitHub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prsolucoes/go-electron/issues"
+  },
+  "homepage": "https://github.com/prsolucoes/go-electron",
+  "devDependencies": {
+    "electron-prebuilt": "^1.3.4"
+  }
+}
